@@ -1,0 +1,68 @@
+/* ------------------Navbar styles----------------*/
+.bg-contain-color{
+    background-color: #F0FFF0;    
+}
+.logo{
+    max-width:118px;
+    height: 40px;
+}
+.nav-link{
+    color: rgb(0, 0, 0);
+    font-weight: 700;    
+}
+
+#sign-in-option{
+    width: 104px;
+    height: 43px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color:#21B573 ;
+    border-radius: 33px; 
+}
+.btn-get-started{
+    background-color: #21B573;
+    color: white;
+    border-radius: 33px;
+    width: 153px;
+    height: 43px;
+}
+/*-------------------------books-----------------------------*/
+.books{  
+    position: relative;      
+    width: 66px;
+    height: 85px;
+    margin-left: 90px;
+    margin-top: 90px;
+}
+.books-card{
+    border: none;
+    background-color:  #f1fff7;
+}
+/*-------------------online course----------------------*/
+.card-img{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 15px 15px 10px lightgray;
+}
+.img-mg {
+    margin: 15px;
+}
+/*--------------------Testimonial----------------------*/
+.testi-h{
+    height: 340px;
+}
+.testi-img img{
+    height: 130px;
+    width: 130px;
+}
+/*-----------------last part-----------*/
+.bg-last-part{
+    background-color: #282531 ;
+}
+.bg-last-part p{
+    color: white;
+}
+.mg-last-part{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
